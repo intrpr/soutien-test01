@@ -1,0 +1,12 @@
+{
+  "name": "html-theme-soutien",
+  "version": "1.0.0",
+  "description": "Soutien",
+  "main": "index.html",
+  "author": "Ivan Chromjak",
+  "license": "",
+  "dependencies": {
+    "awesomplete": "^1.1.4",
+    "uikit": "^3.0.3"
+  }
+}
