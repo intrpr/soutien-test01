@@ -73,7 +73,7 @@ Components:
  */
 html {
   /* 1 */
-  font-family: "Heebo", sans-serif;
+  font-family: 'Inter',  sans-serif;
   font-size: 16px;
   font-weight: 300;
   line-height: 1.5;
@@ -322,7 +322,7 @@ h4, .uk-h4,
 h5, .uk-h5,
 h6, .uk-h6 {
   margin: 0 0 20px 0;
-  font-family: "Heebo", sans-serif;
+  font-family: 'Inter',  sans-serif;
   font-weight: 300;
   color: #000;
   text-transform: none;
@@ -4544,7 +4544,7 @@ nav > .uk-container .uk-navbar-right {
   padding: 0 15px;
   /* 3 */
   font-size: 0.9375rem;
-  font-family: "Heebo", sans-serif;
+  font-family: 'Inter',  sans-serif;
   /* 4 */
   text-decoration: none;
 }
@@ -9043,7 +9043,7 @@ iframe.uk-cover {
  */
 .uk-logo {
   font-size: 1.2rem;
-  font-family: "Heebo", sans-serif;
+  font-family: 'Inter',  sans-serif;
   color: #000;
   /* 1 */
   text-decoration: none;
